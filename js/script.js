@@ -1,0 +1,1 @@
+document.body.firstElementChild.innerHTML="<h1>Hello from javascript!<h1>"
